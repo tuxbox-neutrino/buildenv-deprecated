@@ -165,7 +165,8 @@ PACKAGE_CLASSES ?= "package_ipk"
 #UPDATE_SERVER_URL = "http://192.168.1.202"
 #UPDATE_SERVER_URL = "http://localhost"
 #UPDATE_SERVER_URL = "file:///var/www/html"
-UPDATE_SERVER_URL = "https://update.tuxbox-neutrino.org"
+#UPDATE_SERVER_URL = "http://update.tuxbox-neutrino.org"
+UPDATE_SERVER_URL = "https://n4k.sourceforge.io"
 
 ### Package manager configuration
 #
